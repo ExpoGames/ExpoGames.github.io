@@ -1462,6 +1462,9 @@ algogear.com, 7bce3c82e6da7741, RESELLER
 algogear.com, 406353d0e9db6c5d, RESELLER
 algogear.com, a6bc46b1ba706474, RESELLER
 
+google.com, pub-4624528439694189, DIRECT, f08c47fec0942fa0
+google.com, pub-4624528439694189, RESELLER, f08c47fec0942fa0
+
 
 
 
